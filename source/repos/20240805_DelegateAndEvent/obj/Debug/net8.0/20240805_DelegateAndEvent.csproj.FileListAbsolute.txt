@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\obj\Debug\net8.0\20240805_DelegateAndEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\obj\Debug\net8.0\20240805_DelegateAndEvent.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\obj\Debug\net8.0\20240805_DelegateAndEvent.AssemblyInfo.cs
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\obj\Debug\net8.0\20240805_DelegateAndEvent.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\bin\Debug\net8.0\20240805_DelegateAndEvent.exe
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\bin\Debug\net8.0\20240805_DelegateAndEvent.deps.json
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\bin\Debug\net8.0\20240805_DelegateAndEvent.runtimeconfig.json
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\bin\Debug\net8.0\20240805_DelegateAndEvent.dll
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\bin\Debug\net8.0\20240805_DelegateAndEvent.pdb
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\obj\Debug\net8.0\20240805_DelegateAndEvent.dll
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\obj\Debug\net8.0\refint\20240805_DelegateAndEvent.dll
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\obj\Debug\net8.0\20240805_DelegateAndEvent.pdb
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\obj\Debug\net8.0\20240805_DelegateAndEvent.genruntimeconfig.cache
+C:\Users\cksth\source\repos\20240805_DelegateAndEvent\obj\Debug\net8.0\ref\20240805_DelegateAndEvent.dll

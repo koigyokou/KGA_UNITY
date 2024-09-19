@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\20240805_Extension\bin\Debug\net8.0\20240805_Extension.exe
+C:\Users\cksth\source\repos\20240805_Extension\bin\Debug\net8.0\20240805_Extension.deps.json
+C:\Users\cksth\source\repos\20240805_Extension\bin\Debug\net8.0\20240805_Extension.runtimeconfig.json
+C:\Users\cksth\source\repos\20240805_Extension\bin\Debug\net8.0\20240805_Extension.dll
+C:\Users\cksth\source\repos\20240805_Extension\bin\Debug\net8.0\20240805_Extension.pdb
+C:\Users\cksth\source\repos\20240805_Extension\obj\Debug\net8.0\20240805_Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\20240805_Extension\obj\Debug\net8.0\20240805_Extension.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\20240805_Extension\obj\Debug\net8.0\20240805_Extension.AssemblyInfo.cs
+C:\Users\cksth\source\repos\20240805_Extension\obj\Debug\net8.0\20240805_Extension.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\20240805_Extension\obj\Debug\net8.0\20240805_Extension.dll
+C:\Users\cksth\source\repos\20240805_Extension\obj\Debug\net8.0\refint\20240805_Extension.dll
+C:\Users\cksth\source\repos\20240805_Extension\obj\Debug\net8.0\20240805_Extension.pdb
+C:\Users\cksth\source\repos\20240805_Extension\obj\Debug\net8.0\20240805_Extension.genruntimeconfig.cache
+C:\Users\cksth\source\repos\20240805_Extension\obj\Debug\net8.0\ref\20240805_Extension.dll

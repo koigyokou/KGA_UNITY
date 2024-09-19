@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\20240726_OOP_constructor\bin\Debug\net8.0\20240726_OOP_constructor.exe
+C:\Users\cksth\source\repos\20240726_OOP_constructor\bin\Debug\net8.0\20240726_OOP_constructor.deps.json
+C:\Users\cksth\source\repos\20240726_OOP_constructor\bin\Debug\net8.0\20240726_OOP_constructor.runtimeconfig.json
+C:\Users\cksth\source\repos\20240726_OOP_constructor\bin\Debug\net8.0\20240726_OOP_constructor.dll
+C:\Users\cksth\source\repos\20240726_OOP_constructor\bin\Debug\net8.0\20240726_OOP_constructor.pdb
+C:\Users\cksth\source\repos\20240726_OOP_constructor\obj\Debug\net8.0\20240726_OOP_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\20240726_OOP_constructor\obj\Debug\net8.0\20240726_OOP_constructor.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\20240726_OOP_constructor\obj\Debug\net8.0\20240726_OOP_constructor.AssemblyInfo.cs
+C:\Users\cksth\source\repos\20240726_OOP_constructor\obj\Debug\net8.0\20240726_OOP_constructor.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\20240726_OOP_constructor\obj\Debug\net8.0\20240726_OOP_constructor.dll
+C:\Users\cksth\source\repos\20240726_OOP_constructor\obj\Debug\net8.0\refint\20240726_OOP_constructor.dll
+C:\Users\cksth\source\repos\20240726_OOP_constructor\obj\Debug\net8.0\20240726_OOP_constructor.pdb
+C:\Users\cksth\source\repos\20240726_OOP_constructor\obj\Debug\net8.0\20240726_OOP_constructor.genruntimeconfig.cache
+C:\Users\cksth\source\repos\20240726_OOP_constructor\obj\Debug\net8.0\ref\20240726_OOP_constructor.dll

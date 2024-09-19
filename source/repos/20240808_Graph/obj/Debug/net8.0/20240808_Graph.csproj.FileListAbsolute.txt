@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\20240808_Graph\bin\Debug\net8.0\20240808_Graph.exe
+C:\Users\cksth\source\repos\20240808_Graph\bin\Debug\net8.0\20240808_Graph.deps.json
+C:\Users\cksth\source\repos\20240808_Graph\bin\Debug\net8.0\20240808_Graph.runtimeconfig.json
+C:\Users\cksth\source\repos\20240808_Graph\bin\Debug\net8.0\20240808_Graph.dll
+C:\Users\cksth\source\repos\20240808_Graph\bin\Debug\net8.0\20240808_Graph.pdb
+C:\Users\cksth\source\repos\20240808_Graph\obj\Debug\net8.0\20240808_Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\20240808_Graph\obj\Debug\net8.0\20240808_Graph.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\20240808_Graph\obj\Debug\net8.0\20240808_Graph.AssemblyInfo.cs
+C:\Users\cksth\source\repos\20240808_Graph\obj\Debug\net8.0\20240808_Graph.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\20240808_Graph\obj\Debug\net8.0\20240808_Graph.dll
+C:\Users\cksth\source\repos\20240808_Graph\obj\Debug\net8.0\refint\20240808_Graph.dll
+C:\Users\cksth\source\repos\20240808_Graph\obj\Debug\net8.0\20240808_Graph.pdb
+C:\Users\cksth\source\repos\20240808_Graph\obj\Debug\net8.0\20240808_Graph.genruntimeconfig.cache
+C:\Users\cksth\source\repos\20240808_Graph\obj\Debug\net8.0\ref\20240808_Graph.dll

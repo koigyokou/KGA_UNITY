@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\obj\Debug\net8.0\20240729_ClassAndStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\obj\Debug\net8.0\20240729_ClassAndStatic.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\obj\Debug\net8.0\20240729_ClassAndStatic.AssemblyInfo.cs
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\obj\Debug\net8.0\20240729_ClassAndStatic.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\bin\Debug\net8.0\20240729_ClassAndStatic.exe
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\bin\Debug\net8.0\20240729_ClassAndStatic.deps.json
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\bin\Debug\net8.0\20240729_ClassAndStatic.runtimeconfig.json
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\bin\Debug\net8.0\20240729_ClassAndStatic.dll
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\bin\Debug\net8.0\20240729_ClassAndStatic.pdb
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\obj\Debug\net8.0\20240729_ClassAndStatic.dll
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\obj\Debug\net8.0\refint\20240729_ClassAndStatic.dll
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\obj\Debug\net8.0\20240729_ClassAndStatic.pdb
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\obj\Debug\net8.0\20240729_ClassAndStatic.genruntimeconfig.cache
+C:\Users\cksth\source\repos\20240729_ClassAndStatic\obj\Debug\net8.0\ref\20240729_ClassAndStatic.dll

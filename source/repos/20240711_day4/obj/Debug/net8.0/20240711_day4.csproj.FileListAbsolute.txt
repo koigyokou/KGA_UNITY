@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\20240711_day4\bin\Debug\net8.0\20240711_day4.exe
+C:\Users\cksth\source\repos\20240711_day4\bin\Debug\net8.0\20240711_day4.deps.json
+C:\Users\cksth\source\repos\20240711_day4\bin\Debug\net8.0\20240711_day4.runtimeconfig.json
+C:\Users\cksth\source\repos\20240711_day4\bin\Debug\net8.0\20240711_day4.dll
+C:\Users\cksth\source\repos\20240711_day4\bin\Debug\net8.0\20240711_day4.pdb
+C:\Users\cksth\source\repos\20240711_day4\obj\Debug\net8.0\20240711_day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\20240711_day4\obj\Debug\net8.0\20240711_day4.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\20240711_day4\obj\Debug\net8.0\20240711_day4.AssemblyInfo.cs
+C:\Users\cksth\source\repos\20240711_day4\obj\Debug\net8.0\20240711_day4.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\20240711_day4\obj\Debug\net8.0\20240711_day4.dll
+C:\Users\cksth\source\repos\20240711_day4\obj\Debug\net8.0\refint\20240711_day4.dll
+C:\Users\cksth\source\repos\20240711_day4\obj\Debug\net8.0\20240711_day4.pdb
+C:\Users\cksth\source\repos\20240711_day4\obj\Debug\net8.0\20240711_day4.genruntimeconfig.cache
+C:\Users\cksth\source\repos\20240711_day4\obj\Debug\net8.0\ref\20240711_day4.dll

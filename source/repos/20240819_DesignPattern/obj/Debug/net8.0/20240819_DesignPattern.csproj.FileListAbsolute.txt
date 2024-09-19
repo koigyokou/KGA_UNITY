@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\20240819_DesignPattern\bin\Debug\net8.0\20240819_DesignPattern.exe
+C:\Users\cksth\source\repos\20240819_DesignPattern\bin\Debug\net8.0\20240819_DesignPattern.deps.json
+C:\Users\cksth\source\repos\20240819_DesignPattern\bin\Debug\net8.0\20240819_DesignPattern.runtimeconfig.json
+C:\Users\cksth\source\repos\20240819_DesignPattern\bin\Debug\net8.0\20240819_DesignPattern.dll
+C:\Users\cksth\source\repos\20240819_DesignPattern\bin\Debug\net8.0\20240819_DesignPattern.pdb
+C:\Users\cksth\source\repos\20240819_DesignPattern\obj\Debug\net8.0\20240819_DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\20240819_DesignPattern\obj\Debug\net8.0\20240819_DesignPattern.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\20240819_DesignPattern\obj\Debug\net8.0\20240819_DesignPattern.AssemblyInfo.cs
+C:\Users\cksth\source\repos\20240819_DesignPattern\obj\Debug\net8.0\20240819_DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\20240819_DesignPattern\obj\Debug\net8.0\20240819_DesignPattern.dll
+C:\Users\cksth\source\repos\20240819_DesignPattern\obj\Debug\net8.0\refint\20240819_DesignPattern.dll
+C:\Users\cksth\source\repos\20240819_DesignPattern\obj\Debug\net8.0\20240819_DesignPattern.pdb
+C:\Users\cksth\source\repos\20240819_DesignPattern\obj\Debug\net8.0\20240819_DesignPattern.genruntimeconfig.cache
+C:\Users\cksth\source\repos\20240819_DesignPattern\obj\Debug\net8.0\ref\20240819_DesignPattern.dll

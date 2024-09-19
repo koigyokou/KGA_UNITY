@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\obj\Debug\net8.0\20240802_LevelTest2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\obj\Debug\net8.0\20240802_LevelTest2_2.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\obj\Debug\net8.0\20240802_LevelTest2_2.AssemblyInfo.cs
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\obj\Debug\net8.0\20240802_LevelTest2_2.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\bin\Debug\net8.0\20240802_LevelTest2_2.exe
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\bin\Debug\net8.0\20240802_LevelTest2_2.deps.json
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\bin\Debug\net8.0\20240802_LevelTest2_2.runtimeconfig.json
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\bin\Debug\net8.0\20240802_LevelTest2_2.dll
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\bin\Debug\net8.0\20240802_LevelTest2_2.pdb
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\obj\Debug\net8.0\20240802_LevelTest2_2.dll
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\obj\Debug\net8.0\refint\20240802_LevelTest2_2.dll
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\obj\Debug\net8.0\20240802_LevelTest2_2.pdb
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\obj\Debug\net8.0\20240802_LevelTest2_2.genruntimeconfig.cache
+C:\Users\cksth\source\repos\20240802_LevelTest2_2\obj\Debug\net8.0\ref\20240802_LevelTest2_2.dll

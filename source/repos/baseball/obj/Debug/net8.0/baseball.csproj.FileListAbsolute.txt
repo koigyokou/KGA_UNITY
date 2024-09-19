@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\baseball\bin\Debug\net8.0\baseball.exe
+C:\Users\cksth\source\repos\baseball\bin\Debug\net8.0\baseball.deps.json
+C:\Users\cksth\source\repos\baseball\bin\Debug\net8.0\baseball.runtimeconfig.json
+C:\Users\cksth\source\repos\baseball\bin\Debug\net8.0\baseball.dll
+C:\Users\cksth\source\repos\baseball\bin\Debug\net8.0\baseball.pdb
+C:\Users\cksth\source\repos\baseball\obj\Debug\net8.0\baseball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\baseball\obj\Debug\net8.0\baseball.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\baseball\obj\Debug\net8.0\baseball.AssemblyInfo.cs
+C:\Users\cksth\source\repos\baseball\obj\Debug\net8.0\baseball.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\baseball\obj\Debug\net8.0\baseball.dll
+C:\Users\cksth\source\repos\baseball\obj\Debug\net8.0\refint\baseball.dll
+C:\Users\cksth\source\repos\baseball\obj\Debug\net8.0\baseball.pdb
+C:\Users\cksth\source\repos\baseball\obj\Debug\net8.0\baseball.genruntimeconfig.cache
+C:\Users\cksth\source\repos\baseball\obj\Debug\net8.0\ref\baseball.dll

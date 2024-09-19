@@ -1,0 +1,14 @@
+C:\Users\cksth\source\repos\20240715_day6_func\obj\Debug\net8.0\20240715_day6_func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksth\source\repos\20240715_day6_func\obj\Debug\net8.0\20240715_day6_func.AssemblyInfoInputs.cache
+C:\Users\cksth\source\repos\20240715_day6_func\obj\Debug\net8.0\20240715_day6_func.AssemblyInfo.cs
+C:\Users\cksth\source\repos\20240715_day6_func\obj\Debug\net8.0\20240715_day6_func.csproj.CoreCompileInputs.cache
+C:\Users\cksth\source\repos\20240715_day6_func\bin\Debug\net8.0\20240715_day6_func.exe
+C:\Users\cksth\source\repos\20240715_day6_func\bin\Debug\net8.0\20240715_day6_func.deps.json
+C:\Users\cksth\source\repos\20240715_day6_func\bin\Debug\net8.0\20240715_day6_func.runtimeconfig.json
+C:\Users\cksth\source\repos\20240715_day6_func\bin\Debug\net8.0\20240715_day6_func.dll
+C:\Users\cksth\source\repos\20240715_day6_func\bin\Debug\net8.0\20240715_day6_func.pdb
+C:\Users\cksth\source\repos\20240715_day6_func\obj\Debug\net8.0\20240715_day6_func.dll
+C:\Users\cksth\source\repos\20240715_day6_func\obj\Debug\net8.0\refint\20240715_day6_func.dll
+C:\Users\cksth\source\repos\20240715_day6_func\obj\Debug\net8.0\20240715_day6_func.pdb
+C:\Users\cksth\source\repos\20240715_day6_func\obj\Debug\net8.0\20240715_day6_func.genruntimeconfig.cache
+C:\Users\cksth\source\repos\20240715_day6_func\obj\Debug\net8.0\ref\20240715_day6_func.dll
